@@ -11,6 +11,7 @@ skimage
 imageio  
 matplotlib  
 tqdm  
+tensorboardX  
 cv2 >= 3.xx   
 
 # Trian
